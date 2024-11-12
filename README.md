@@ -52,7 +52,8 @@
 <img width="179" alt="courses screen" src="https://github.com/user-attachments/assets/5c306793-2265-46db-b4ae-c8b8fe4da743">
 
 #### Apply page 📝:
-<img width="600" alt="apply_snap" src="https://github.com/user-attachments/assets/0bb364ac-02ab-4d30-8604-f9d4de935280"> 
+<img width="179" alt="apply screen 2" src="https://github.com/user-attachments/assets/528fb078-f714-4162-a5f4-4ea14c9fb181">
+<img width="162" alt="apply screen1" src="https://github.com/user-attachments/assets/2627b6bc-493d-4b91-97a1-6702dff0f33f">
 
 #### Contact us page ☎️:
 <img width="164" alt="contact us screen" src="https://github.com/user-attachments/assets/8c6bc81f-3396-4fce-b173-72f882615ef2">
