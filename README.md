@@ -55,7 +55,7 @@
 <img width="600" alt="apply_snap" src="https://github.com/user-attachments/assets/0bb364ac-02ab-4d30-8604-f9d4de935280"> 
 
 #### Contact us page ☎️:
-<img width="600" alt="contact_snap" src="https://github.com/user-attachments/assets/c7612f28-d9a0-45fa-9137-085119769f2f">
+<img width="164" alt="contact us screen" src="https://github.com/user-attachments/assets/8c6bc81f-3396-4fce-b173-72f882615ef2">
 
 #### Total fees page 💰:
 <img width="600" alt="totalfees_snap" src="https://github.com/user-attachments/assets/107cea89-2594-4f4a-a7c2-2a6c5480ae09">
