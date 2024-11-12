@@ -12,7 +12,7 @@
 - ~~Dimakatso~~
 
 ### 📱Programming Languages used for making the project💻:
-- HTML + CSS (for the website)
+- HTML + CSS + Javascript/jQuery (for the website)
 -  React native (for the app)
 
   ### Screens on the app include :
