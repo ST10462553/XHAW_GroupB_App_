@@ -62,5 +62,5 @@
 <img width="600" alt="totalfees_snap" src="https://github.com/user-attachments/assets/107cea89-2594-4f4a-a7c2-2a6c5480ae09">
 
 #### Find out more page 🔎:
-<img width="600" alt="findoutmore_snip" src="https://github.com/user-attachments/assets/88cc4ccf-a112-4415-b5df-a1384092e5e7">
+<img width="176" alt="find out more screen" src="https://github.com/user-attachments/assets/a856275b-84ee-453e-a5d6-fb30be230b4b">
 <img width="153" alt="about screen" src="https://github.com/user-attachments/assets/782f1145-5c37-448d-801f-fbe82e682688">
