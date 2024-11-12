@@ -45,7 +45,7 @@
 
  ### The website:
  #### Home page 🏯:
- <img width="600" alt="homepage_snap" src="https://github.com/user-attachments/assets/5fd16ee5-245d-4990-93c6-2f0783db4e68">
+ <img width="186" alt="home screen" src="https://github.com/user-attachments/assets/c83a0726-0061-415e-8fcc-07a5a9648ec4">
 
 
 #### Courses screen:
