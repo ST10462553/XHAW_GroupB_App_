@@ -43,6 +43,12 @@
    * Users can select one or more courses and determine whether or not, they qualify for a discount
    * An invoice is provided at the bottom of the screen with the total fees before and after discount (if applicable).
 
+   ### 6. Current student profile screen
+   * Here users can upload and update their personal information
+   * Alternatively they can just read their current details in the school's system
+   * The user is able to upload documents as well.
+
+
  ### The mobile application:
  #### Home screen 🏯:
  <img width="186" alt="home screen" src="https://github.com/user-attachments/assets/c83a0726-0061-415e-8fcc-07a5a9648ec4">
@@ -65,7 +71,7 @@
 <img width="153" alt="about screen" src="https://github.com/user-attachments/assets/782f1145-5c37-448d-801f-fbe82e682688">
 
 #### Current students profile👨👩:
-
+<img width="167" alt="current student screen" src="https://github.com/user-attachments/assets/2f4b2350-9ab6-4915-b33f-58c055106fac">
 #### Running the app 🔎:
 1. click the link below
 2. select launch snack on the screen in front of you.
