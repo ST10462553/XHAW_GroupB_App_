@@ -13,7 +13,7 @@
 
 ### 📱Programming Languages used for making the project💻:
 - HTML + CSS (for the website)
-- Kotlin/ React native (for the app)
+-  React native (for the app)
 
   ### Webpages on the website include :
  ### 1. Homepage
@@ -63,4 +63,4 @@
 
 #### Find out more page 🔎:
 <img width="600" alt="findoutmore_snip" src="https://github.com/user-attachments/assets/88cc4ccf-a112-4415-b5df-a1384092e5e7">
-  
+<img width="153" alt="about screen" src="https://github.com/user-attachments/assets/782f1145-5c37-448d-801f-fbe82e682688">
