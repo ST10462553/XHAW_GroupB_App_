@@ -72,6 +72,7 @@
 
 #### Current students profile👨👩:
 <img width="167" alt="current student screen" src="https://github.com/user-attachments/assets/2f4b2350-9ab6-4915-b33f-58c055106fac">
+
 #### Running the app 🔎:
 1. click the link below
 2. select launch snack on the screen in front of you.
