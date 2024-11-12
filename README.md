@@ -63,3 +63,10 @@
 
 #### Find out more page 🔎:
 <img width="153" alt="about screen" src="https://github.com/user-attachments/assets/782f1145-5c37-448d-801f-fbe82e682688">
+
+#### Running the app 🔎:
+1. click the link below
+2. select launch snack on the screen in front of you.
+3. Explore the app and enjoy!
+
+https://snack.expo.dev/@derrick112/work_update?platform=android 
