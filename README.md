@@ -78,4 +78,4 @@
 2. select launch snack on the screen in front of you.
 3. Explore the app and enjoy!
 
-https://snack.expo.dev/@derrick112/work_update?platform=android 
+[https://snack.expo.dev/@derrick112/work_update?platform=android ](https://snack.expo.dev/@derrick112/work_update?platform=android)
