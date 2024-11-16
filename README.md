@@ -66,8 +66,7 @@
 <img width="164" alt="contact us screen" src="https://github.com/user-attachments/assets/8c6bc81f-3396-4fce-b173-72f882615ef2">
 
 #### Total fees screen 💰:
-<img width="190" alt="calculate total fees screen new1" src="https://github.com/user-attachments/assets/0be96eb5-daeb-4a67-a49c-9357029085e7">
-
+<img width="165" alt="Calculate total fees screen" src="https://github.com/user-attachments/assets/9cc17e1d-22b8-4c43-8070-ffea02f23cdd">
 #### Find out more screen 🔎:
 <img width="153" alt="about screen" src="https://github.com/user-attachments/assets/782f1145-5c37-448d-801f-fbe82e682688">
 
