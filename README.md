@@ -63,8 +63,8 @@
 <img width="162" alt="apply screen new" src="https://github.com/user-attachments/assets/7c1c6eda-2f0b-475d-90f8-fe5f1eb904b6">
 
 #### Contact us screen ☎️:
-<img width="164" alt="contact us screen" src="https://github.com/user-attachments/assets/8c6bc81f-3396-4fce-b173-72f882615ef2">
-
+<img width="170" alt="contact us screen2" src="https://github.com/user-attachments/assets/a25e3929-a4da-429e-a2ba-7a3b22446546">
+<img width="164" alt="contact us screen1" src="https://github.com/user-attachments/assets/776299d5-338f-4a35-8261-5ff673cfa58a">
 #### Total fees screen 💰:
 <img width="165" alt="Calculate total fees screen" src="https://github.com/user-attachments/assets/9cc17e1d-22b8-4c43-8070-ffea02f23cdd">
 #### Find out more screen 🔎:
