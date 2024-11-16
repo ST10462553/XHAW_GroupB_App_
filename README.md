@@ -73,7 +73,7 @@
 <img width="153" alt="about screen" src="https://github.com/user-attachments/assets/782f1145-5c37-448d-801f-fbe82e682688">
 
 #### Current students profile👨👩:
-<img width="167" alt="current student screen" src="https://github.com/user-attachments/assets/2f4b2350-9ab6-4915-b33f-58c055106fac">
+<img width="146" alt="current student screen 1" src="https://github.com/user-attachments/assets/2975d6eb-9062-49bd-a616-eab3cca87cc4">
 
 #### Running the app 💻:
 1. click the link below
