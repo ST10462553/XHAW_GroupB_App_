@@ -60,6 +60,7 @@
 #### Apply screen 📝:
 <img width="179" alt="apply screen 2" src="https://github.com/user-attachments/assets/528fb078-f714-4162-a5f4-4ea14c9fb181">
 <img width="162" alt="apply screen1" src="https://github.com/user-attachments/assets/2627b6bc-493d-4b91-97a1-6702dff0f33f">
+<img width="162" alt="apply screen new" src="https://github.com/user-attachments/assets/7c1c6eda-2f0b-475d-90f8-fe5f1eb904b6">
 
 #### Contact us screen ☎️:
 <img width="164" alt="contact us screen" src="https://github.com/user-attachments/assets/8c6bc81f-3396-4fce-b173-72f882615ef2">
