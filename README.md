@@ -82,4 +82,4 @@
 
 [https://snack.expo.dev/@derrick112/work_update?platform=android ](https://snack.expo.dev/@derrick112/work_update?platform=android)
 
-Link to our app demonstration: https://youtu.be/7Zqy3En5KIw 
+Link to our app demonstration: https://www.youtube.com/watch?v=6Wkda9-Zua0
